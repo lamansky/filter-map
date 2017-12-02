@@ -1,0 +1,35 @@
+{
+  "name": "filter-map",
+  "version": "3.0.0",
+  "description": "Returns a copy of a Map object containing only those entries which pass a test function.",
+  "keywords": [
+    "filter",
+    "Map",
+    "test",
+    "keys",
+    "values"
+  ],
+  "author": "John Lamansky",
+  "license": "MIT",
+  "homepage": "https://github.com/lamansky/filter-map",
+  "repository": "lamansky/filter-map",
+  "main": "index.js",
+  "files": [],
+  "dependencies": {
+    "filter-iterator": "0.0.1",
+    "possible-function": "^1.0.1"
+  },
+  "devDependencies": {
+    "eslint-config-lamansky": "^1.0.0",
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "eslintConfig": {
+    "extends": "lamansky",
+    "env": {
+      "mocha": true
+    }
+  }
+}
