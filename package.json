@@ -1,6 +1,6 @@
 {
   "name": "filter-map",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "Returns a copy of a Map object containing only those entries which pass a test function.",
   "keywords": [
     "filter",
