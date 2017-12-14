@@ -16,7 +16,9 @@
   "main": "index.js",
   "files": [],
   "dependencies": {
-    "filter-iterator": "0.0.1",
+    "filter-iter": "^1.0.0",
+    "is-plain-object": "^2.0.4",
+    "m-o": "^2.1.0",
     "possible-function": "^1.0.1"
   },
   "devDependencies": {
